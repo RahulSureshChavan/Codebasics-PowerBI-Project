@@ -34,4 +34,4 @@ Working on this project allowed me to:
 3. Optimize workflows with features like data refresh automation.
 4. Develop advanced visualization techniques to convey compelling data narratives.
 
-**Project Recording:** https://drive.google.com/drive/folders/1nipQ1wAICd0R-doZb0cA5H9lJuqJb0_n
+**Project Recording:** https://drive.google.com/drive/folders/1NyEkuuByYNQ4txxkGhBIk2TKjXjh-z9g
