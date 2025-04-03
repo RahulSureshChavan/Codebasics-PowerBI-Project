@@ -1,4 +1,4 @@
-Business Insights 360: Revolutionizing Decision-Making with Data 🌟
+**Business Insights 360: Revolutionizing Decision-Making with Data 🌟**
 
 Introduction:
 AtliQ Hardware, a prominent hardware manufacturer in Latin America, encountered significant challenges due to outdated and manual data analysis methods. The reliance on Excel-based reporting led to inefficiencies and delayed business decisions. To tackle these obstacles, I developed Business Insights 360, a sophisticated analytics platform powered by Power BI.
